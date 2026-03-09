@@ -6,8 +6,7 @@ Here you can find how we as a product sound. Our product personality consists of
 
 Let's say, our company were a human. What would we be like? That's our personality and how our texts sound like.
 
-<!-- TODO: Add personality_chart image when provided -->
-![Personality chart](../assets/personality_chart.svg)
+![Personality chart](./assets/personality_chart.svg)
 
 ## Voice chart
 
