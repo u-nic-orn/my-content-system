@@ -17,14 +17,23 @@ A content management and creation system. This file provides Claude with project
 ## Project Structure
 ```
 my-content-system/
-├── CLAUDE.md       # This file — Claude instructions
-├── memory.md       # Persistent memory across sessions
-└── skills/
-    ├── tone-checker.md
-    └── learn.md
+├── CLAUDE.md                        # This file — Claude instructions
+├── memory.md                        # Persistent memory across sessions
+├── skills/
+│   ├── tone-checker.md
+│   └── learn.md
+└── style-guide/
+    ├── voice.md                     # Brand personality and voice chart
+    ├── style.md                     # Style rules (abbreviations, formats, UI copy etc.)
+    ├── typographical-signs.md       # Correct typographical characters and keyboard shortcuts
+    ├── glossary.md                  # Glossary overview and usage guide
+    └── master-glossary.csv          # Full term list: de-CH, fr-CH, it-CH, en-GB
 ```
+
+> **Pending:** `style-guide/voice.md` references `../assets/personality_chart.svg` — image not yet provided.
 
 ## Notes for Claude
 - Consult `memory.md` at the start of each session for accumulated context
+- Check `style-guide/style.md` and `style-guide/master-glossary.csv` before writing or reviewing copy
 - Use the `learn` skill to capture new patterns or insights during work
 - Use the `tone-checker` skill before finalizing any content

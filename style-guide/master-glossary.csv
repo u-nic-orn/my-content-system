@@ -1,0 +1,364 @@
+﻿term,description,active,related_terms,don’t,comment,part_of_speech,changed_on,changed_by,product_name,translatable,case_sensitive,de-CH,comment_de-CH,don’t_de-CH,fr-CH,comment_fr-CH,don’t_fr-CH,it-CH,comment_it-CH,don’t_it-CH,en-GB,department,technical_term_contacts,technical_term_addresses,technical_term_subscription_and_checkout,marketing_glossary_term
+account,Only in the accounting section. Otherwise always use accounting account,TRUE,"account classification
+account group
+account ledger
+accounting account
+accounting record
+accounts
+chart of accounts
+expense
+complete
+asset
+liability
+income
+parent group
+system account
+system account group
+balance sheet
+income statement",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Konto,,,compte,,,conto,,,account,,,,,
+account classification,"Used in the chart of accounts. Classifies accounting accounts into assets, income, liability, expense and complete (year-end closing)",TRUE,"account
+accounting account
+accounts
+asset
+chart of accounts
+complete
+expense
+income statement
+balance sheet
+liability
+system account
+income",,,noun + noun,2025-10-02,Nicolas Scherrer,,TRUE,FALSE,Kontoart,,,type de compte,,,tipo di conto,,,account classification,,,,,
+account group,Accounting accounts live within account groups in the chart of accounts. They are used to structure the balance sheet and income statement,TRUE,"account
+accounting account
+accounts
+balance sheet
+chart of accounts
+expense
+income
+income statement
+liability
+system account group
+asset
+complete
+parent group",,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Kontengruppe,,,groupe de comptes,,,gruppo di conti,,,account group,,,,,
+account ledger,An instrument to see postings on one accounting account including credit and debit postings and the balance,TRUE,"account
+accounting account
+accounts
+credit
+debit
+system account",,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Kontenblatt,,,feuille de compte,,,scheda di conto,,,account ledger,,,,,
+accountants directory,A directory on our website for our customers to find and choose accountants nearby,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Treuhänder-Verzeichnis,,,répertoire des fiduciaires,,,directory dei contabili,,,accountants directory,,,,,
+accounting account,"Use this word outside the accounting section. For example, in the chart of accounts in accounting or in the account ledger, always use account. When selecting an accounting account for invoices or bills, use this term",TRUE,"account
+account classification
+account group
+account ledger
+accounting record
+accounts
+chart of accounts
+expense
+complete
+asset
+liability
+income
+income statement
+system account
+system account group
+balance sheet",,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Buchungskonto,,,compte de comptabilité,,,conto di registrazione,,,accounting account,,,,,
+accounting record,"Is a posting in the accounting. Usually contains a date, credit account, debit account, description, currency and an amount",TRUE,"account
+accounting account
+credit
+debit",,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Buchungssatz,,,ecriture comptable,,,registrazione contabile,,,accounting record,,,,,
+accounts,Plural for account,TRUE,"account
+account classification
+account group
+account ledger
+accounting account",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Konten,,,comptes,,,conti,,,accounts,,,,,
+active,VAT rates and accounting accounts can either be active or inactive,TRUE,,,,adjective,2025-05-13,Nicolas Scherrer,,TRUE,FALSE,aktiv,,,actif,,,attivo,,,active,,,,,
+additional address,"Can be added to a contact. Is a deviation from the main address for delivery addresses and so on. Contains name, street, house no., pc, city, address addition and company name addition",TRUE,,,,adjective + noun,2025-11-04,Nicolas Scherrer,,TRUE,FALSE,Zusatzadresse,,,adresse supplémentaire,,,indirizzo aggiuntivo,,,additional address,,,,,
+address,"Usually contains a street, house no., PO boxes etc. in an unstructured format. It was deprecated in 2025 due to the regulatory changes to addresses from the banks.",FALSE,,,,noun,2025-05-23,Nicolas Scherrer,,TRUE,FALSE,Adresse,,,adresse,,,indirizzo,,,address,,,,,
+address (deprecated format),"During the changes required to contacts for structured addresses, this note is used as label to display the deprecated format for the user to compare the fields",TRUE,,address (deprecated),,noun + adjective + noun,2025-05-27,Nicolas Scherrer,,TRUE,FALSE,Adresse (veraltetes Format),,,adresse (format obsolète),,,indirizzo (formato deprecato),,,address (deprecated format),,,,,
+address addition,"Label of input field. The addition to an address, for example, PO box",TRUE,,,,noun + noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Adresszusatz,,,complément d’adresse,,,aggiunta di indirizzo,,,address addition,,,,,
+address split,"In 2025 the banks decided that addresses need to be structured. Meaning, every part of an address needs to be a separate data record and a separate field. We had to split the field Address into Street and House no.. We called this the address split",TRUE,,,,noun + noun,2025-06-03,Nicolas Scherrer,,TRUE,FALSE,Adress-Aufteilung,,,fractionnement de l’adresse,,,divisione indirizzo,,,address split,,,,,
+again,"If we try something more than once, we write again",TRUE,,,,adverb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,erneut,,,à nouveau,,,di nuovo,,,again,,,,,
+agreed consideration,The type of VAT reporting to the Federal Tax Administration. The reporting forms are agreed consideration and consideration collected,TRUE,,,,adjective + noun,2025-04-30,Nicolas Scherrer,,TRUE,FALSE,vereinbartes Entgelt,,,contre-prestation convenue,,,sul fatturato,,,agreed consideration,,,,,
+amortization,Used for swisspeers to describe the reduction of your loan amount,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Amortisation,,,amortissement,,,ammortamento,,,amortization,,,,,
+amount,Used in a discount position on a sales document. For discounts you can choose if it’s an amount or a percentage,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Betrag,,,montant,,,importo,,,amount,,,,,
+annual reporting,SMBs can apply for annual reporting of their VAT reporting at the FTA (Federal Tax Administration),TRUE,,,,adjective + noun,2025-09-12,Nicolas Scherrer,,TRUE,FALSE,jährliche Abrechnung,,,déclaration annuelle,,,rapporto annuale,,,annual reporting,,,,,
+API,Abbreviation for application programming interface,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,API,Use the article “die” for German,,API,,,API,,,API,,,,,
+app,Other software of the providers in the App Marketplace,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,App,,,app,,,app,,,app,,,,,
+App Marketplace,Brand name of our Marketplace. Is deliberately written without a hyphen,FALSE,Marketplace,,,noun + noun,2024-10-16,Nicolas Scherrer,,FALSE,FALSE,,,,,,,,,,App Marketplace,,,,,
+approve,Only used in address split. If a proposal needs to be checked and verified.,TRUE,,,,verb,2025-11-04,Nicolas Scherrer,,TRUE,FALSE,akzeptieren,,,approuver,,,approvare,,,approve,,,,,
+asset,1 out of 5 accounting account classifications. Used for structuring the chart of accounts and subsequently the balance sheet and income statement,TRUE,"account
+account classification
+account group
+accounting account",,,noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,Aktiv,,,actif,,,attivo,,,asset,,,,,
+balance,Plural of balance,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Saldi,Use the article “die” for German,,soldes,,,saldi,,,balance,,,,,
+balance sheet,Report for year-end-closing. Contains assets and liabilities,TRUE,"account
+account classification
+account group
+accounting account",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Bilanz,,,bilan,,,bilancio,,,balance sheet,,,,,
+bank account,"To reduce confusion with the accounting accounts, always use this term",TRUE,,account,,noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Bankkonto,,,compte bancaire,,,conto bancario,,,bank account,,,,,
+bank interface,The connection between a bexio bank account and an e-banking bank account,TRUE,,banking interface,,noun + noun,2025-05-16,Nicolas Scherrer,,TRUE,FALSE,Bankschnittstelle,,Bankenschnittstelle,interface bancaire,,,interfaccia bancaria,,,bank interface,,,,,
+bank transaction,Singular of bank transactions,TRUE,,transaction,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Banktransaktion,,,transaction bancaire,,,transazione bancaria,,,bank transaction,,,,,
+bank transactions,The name for credit and debit transactions from the bank that can be imported into bexio,TRUE,,transactions,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Banktransaktionen,,,transactions bancaires,,,transazioni bancarie,,,bank transactions,,,,,
+banking,Name of the section in the navigation,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,FALSE,FALSE,,,,,,,,,,banking,,,,,
+bexio,"Always write our company name in lower case, even at the beginning of a sentence",TRUE,,,,proper noun,2024-01-10,Nicolas Scherrer,,FALSE,FALSE,,,,,,,,,,bexio,,,,,
+bexio account,This is the name of an account of our software,TRUE,,bexio Office account,,proper noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,bexio-Konto,,,compte bexio,,,account bexio,,,bexio account,,,,,
+bexio Archive,The official brand name of our GeBüV certified archive integration,FALSE,,,Use a protected space (⌥ + space) between bexio and the product name,proper noun,2025-09-30,Nicolas Scherrer,,FALSE,TRUE,,,,,,,,,,bexio Archive,,,,,
+bexio Cockpit account,Might be used more often in the future to distinguish between Office and Cockpit,TRUE,,,,proper noun + noun,2025-05-02,Nicolas Scherrer,,TRUE,TRUE,bexio-Cockpit-Konto,,,compte bexio Cockpit,,,conto bexio Cockpit,,,bexio Cockpit account,,,,,
+bexio Credit,The official brand name of our peer-to-peer lending platform integration,TRUE,,,Use a protected space (⌥ + space) between bexio and the product name,proper noun,2024-01-10,Nicolas Scherrer,,FALSE,TRUE,,,,,,,,,,bexio Credit,,,,,
+bexio Go,The official brand name of our mobile app,TRUE,,bexioGo,Use a protected space (⌥ + space) between bexio and the product name,proper noun,2024-01-10,Nicolas Scherrer,,FALSE,TRUE,,,,,,,,,,bexio Go,,,,,
+bexio Office,The internal name of our desktop version. Also considered the original bexio. The name is tied to the domain office.bexio.com,FALSE,,office,Use a protected space (⌥ + space) between bexio and the product name,proper noun,,Nicolas Scherrer,,FALSE,TRUE,,,,,,,,,,bexio Office,,,,,
+bexio Office account,Might be used more often in the future to distinguish between Office and Cockpit,FALSE,,Office account,,proper noun + noun,2025-05-02,Nicolas Scherrer,,TRUE,TRUE,bexio-Office-Konto,,,compte bexio Office,,,conto bexio Office,,,bexio Office account,,,,,
+bexio Pay,The official brand name of our debit card integration,TRUE,,,Use a protected space (⌥ + space) between bexio and the product name,proper noun,2024-01-10,Nicolas Scherrer,,FALSE,TRUE,,,,,,,,,,bexio Pay,,,,,
+bi-weekly,"If something repeats every 2 weeks, call it bi-weekly",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,zweiwöchentlich,,,bimensuel,,,ogni quindici giorni,,,bi-weekly,,,,,
+bill,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Lieferantenrechnung,,,facture fournisseur,,,fattura fornitore,,,bill,,,,,
+billing period,Used for subscriptions. Describes the billing period that can be either yearly or monthly,TRUE,,,,noun + noun,2026-02-20,Nicolas Scherrer,,TRUE,FALSE,Rechnungszeitraum,,,période de facturation,,,periodo di fatturazione,,,billing period,UX,,,,
+bills,Name in the navigation for document type bill in the purchase section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Lieferantenrechnungen,,,factures fournisseurs,,,fatture fornitori,,,bills,,,,,
+business loan,A loan from swisspeers,TRUE,,,,noun + noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Firmenkredit,,,prêt professionnel,,,prestito d’affari,,,business loan,,,,,
+business software,How we categorize our software,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Business-Software,,,logiciel de gestion,,,software aziendale,,,business software,,,,,
+cancel,"Action for button, therefore capitalised",TRUE,OK,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,abbrechen,,,annuler,,,interrompere,,,cancel,,,,,
+carry forward,The definite carry forward of all balance sheet account balances after the year-end closing,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Übertrag,,,report,,,riporto,,,carry forward,,,,,
+carry over,The provisional version of the carry forward of all balance sheet account balances. Can be removed again. Is used to keep track of bank account balances until the year-end closing is done,TRUE,,,,phrasal verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Saldovortrag,,,report de soldes,,,saldo a nuovo,,,carry over,,,,,
+cash discount,"If you pay a bill you received very early, you sometimes get a discount. Usually around 2 or 4 %",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Skonto,,,escompte,,,sconto,,,cash discount,,,,,
+chargeable,"If you are allowed to charge something, it is chargeable",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,verrechenbar,,,facturable,,,fatturabile,,,chargeable,,,,,
+chart of accounts,The place where all the accounting accounts and account groups life. The spine of accounting,TRUE,"account
+account classification
+account group
+accounting account",,,,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Kontenplan,,,plan comptable,,,piano dei conti,,,chart of accounts,,,,,
+city,Label for input field,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Ort,,,localité,,,luogo,,,city,,,,,
+client,Clients are the customers of the fiduciaries,TRUE,client account (accountant package),,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Mandant,,,mandant,,,cliente,,,client,,,,,
+client account (accountant package),Special packages for fiduciaries that are cheaper and offer less features,TRUE,client,client account (accountant plan),,noun + noun + noun + noun,2026-02-09,Nicolas Scherrer,,TRUE,FALSE,Mandanten-Konto (Treuhandpaket),,,compte mandant (package fiduciaire),,,account cliente (pacchetto contabile),,,client account (accountant package),"UX
+Marketing",,,,
+closed,Status. Used for time trackings,TRUE,,,,adjective,2025-09-22,Nicolas Scherrer,,TRUE,FALSE,geschlossen,,,fermé,,,chiuso,,,closed,,,,,
+company,One of the contact types private or company,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Firma,,,entreprise,,,ditta,,,company,,,,,
+company name addition,Label of input field,TRUE,,,,noun + noun + noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Firmennamen-Zusatz,,,nom additionnel de l’entreprise,,,aggiunta al nome aziendale,,,company name addition,,,,,
+complete,1 out of 5 accounting account classifications. Used for structuring the chart of accounts and subsequently the balance sheet and income statement. Complete is used for the year-end closing,TRUE,"account
+account classification
+account group
+accounting account",,,noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,Abschluss,,,clôture,,,chiusura,,,complete,,,,,
+connection,The link between a bexio account and a Cockpit account,TRUE,,,,noun,2025-10-20,Nicolas Scherrer,,TRUE,FALSE,Verbindung,,,connexion,,,connessione,,,connection,,,,,
+consideration collected,The form of VAT reporting to the Federal Tax Administration. The reporting forms are agreed consideration and consideration collected,TRUE,,,,noun + adjective,2025-04-30,Nicolas Scherrer,,TRUE,FALSE,vereinnahmtes Entgelt,,,contre-prestation reçue,,,sull’incassato,,,consideration collected,,,,,
+contact,Within the contacts section this is the name of one contact,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Kontakt,,,contact,,,contatto,,,contact,,,,,
+contact No.,"For contact import. Must correspond to the contact import template, otherwise the import will not work. Therefore without hyphen",FALSE,,,,noun + noun,2025-05-16,Nicolas Scherrer,,TRUE,FALSE,Kontakt Nr.,,,nº du contact,,,contatto n.,,,contact No.,,,,,
+contact no.,Label for input field. Contact is the prefix to no. if there is another no. present on the same screen,TRUE,,"contact number, contact No.",,noun + noun,2025-05-13,Nicolas Scherrer,,TRUE,FALSE,Kontakt-Nr.,,Kontaktnr.,nº de contact,,,contatto n.,,,contact no.,,,,,
+contact partner,User assigned to a data record,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Ansprechpartner,,,interlocuteur,,,persona di contatto,,,contact partner,,,,,
+contacts,Name in the navigation for the contacts section,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Kontakte,,,contacts,,,contatti,,,contacts,,,,,
+continue,Used when there are several steps to move on to the next step,TRUE,,,,verb,2025-09-04,Nicolas Scherrer,,TRUE,FALSE,Weiter,,,continuer,,,continua,,,continue,,,,,
+contra account,An accounting posting always consists of 2 accounting accounts. The contra account is only used in the account ledger export. It’s abbreviated with CA,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Gegenkonto,,,compte de contrepartie,,,conto di contropartita,,,contra account,,,,,
+country,Label of input field,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Land,,,pays,,,paese,,,country,,,,,
+credit,"In subscription management, when our users receive a discount from us on their bexio invoice",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Gutschrift,,,crédit,,,accredito,,,credit,,,,,
+credit,The right side in an accounting account,TRUE,"account ledger
+accounting record",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Haben,,,crédit,,,avere,,,credit,,,,,
+credit check,The check swisspeers concludes to define the credit score of their customers,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Bonitätsprüfung,,,vérification de la solvabilité,,,controllo del credito,,,credit check,,,,,
+credit line,Used in bexio Credit for Kamuno. The amount of a loan,TRUE,,,,noun,2025-09-26,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Kreditrahmen,,,ligne de crédit,,,linea di credito,,,credit line,,,,,
+credit notes,Name in the navigation for document type credit note in the sales section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Gutschriften,,,crédits,,,accrediti,,,credit notes,,,,,
+credit rating,Eligibility for a business loan,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Kredit-Rating,,,score de crédit,,,valutazione del credito,,,credit rating,,,,,
+currency,The money that is used in a particular country at a particular time.  We use it in accounting and on documents,TRUE,,,,noun,2025-09-04,Nicolas Scherrer,,TRUE,FALSE,Währung,,,monnaie,,,valuta,,,currency,,,,,
+date,"The creation date of a document. Usually used on quotes, orders, delivery notes, invoices, credit notes, purchase orders, bills, expenses and vendor credit notes.",TRUE,,,,noun,2025-08-12,Nicolas Scherrer,,TRUE,FALSE,Datum,,,date,,,data,,,date,,,,,
+deactivated,VAT rates and accounting accounts can either be active or deactivated,TRUE,,,,adjective,2025-05-13,Nicolas Scherrer,,TRUE,FALSE,deaktiviert,,,désactivé,,,disattivato,,,deactivated,,,,,
+dear,The word we use to address the users in emails or letters,TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Grüezi,,,bonjour,,,cara,caro if it’s masculin,,dear,,,,,
+debit,The left side in an accounting account,TRUE,"account ledger
+accounting record",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Soll,,,débit,,,dare,,,debit,,,,,
+delete,"Delete action, is always named the same",TRUE,,,,verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,löschen,,,supprimer,,,elimina,,,delete,,,,,
+description,Used in a position on a sales document. Label of free text fields,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Beschreibung,,,description,,,descrizione,,,description,,,,,
+digit (wage statement),The digit on a wage statement. Used as a label in the table of the wage types,TRUE,,,,noun + noun + noun,2025-09-18,Nicolas Scherrer,bexio Payroll,TRUE,FALSE,Ziffer (Lohnausweis),,,chiffre (certificat de salaire),,,cifra (certificato di salario),,,digit (wage statement),,,,,
+discount,A position on sales documents. Can contain a percentage or amount value,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Rabatt,,,rabais,,,ribasso,,,discount,,,,,
+discount type,Used in a discount position on a sales document. It’s the label for the choice between percentage and amount,TRUE,,,,noun + noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Rabatttyp,,,type de rabais,,,tipo di ribasso,,,discount type,,,,,
+document archive,Our white-label solution for a GeBüV certified storage,TRUE,,archive,,noun + noun,2026-02-10,Nicolas Scherrer,,TRUE,FALSE,Dokumenten-Archiv,,,Archive de documents,,,Archivio documenti,,,document archive,"UX
+Marketing",,,,
+done,Status. Used for time trackings and tasks,TRUE,,,,adjective,2025-09-22,Nicolas Scherrer,,TRUE,FALSE,erledigt,,,terminé,,,eseguito,,,done,,,,,
+draft,"Document status, always capitalised",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Entwurf,,,brouillon,,,bozza,,,draft,,,,,
+due date,The date when an invoice is due is called the due date,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Fälligkeit,,,échéance,,,maturità,,,due date,,,,,
+duplicate,Action of copy and pasting in the same place,TRUE,,,,verb,2025-09-23,Nicolas Scherrer,,TRUE,FALSE,kopieren,Purchase uses duplizieren currently,,copier,Purchase uses dupliquer currently,,copia,Purchase uses duplicate currently,,duplicate,,,,,
+duration,Timeframe of a business loan,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Laufzeit,,,durée,,,durata,,,duration,,,,,
+e-banking,Name of the online banking of the banks. It’s used to differentiate the bexio banking from the e-banking of the banks,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,E-Banking,,,e-banking,,,e-banking,,,e-banking,,,,,
+e.g.,Abbreviation for exempli gratia: a Latin phrase that means “for example”. It can be pronounced as “e.g.” or “for example”,TRUE,,,,,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,z. B.,There is a protected space in between for German,,par ex.,,,ad esempio,,,e.g.,,,,,
+edit,"If something can be modified, call it edit",TRUE,,,,verb,2025-05-27,Nicolas Scherrer,,TRUE,FALSE,bearbeiten,,,modifier,,,modifica,,,edit,,,,,
+effective method,1 of the 2 taxation methods,TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,effektive Besteuerung,,,imposition effective,,,metodo effettivo,,,effective method,,,,,
+email,Label of input field,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,E-Mail,Use the Swiss article “das” for German,,e-mail,,,e-mail,,,email,,,,,
+employee,How we refer to team members within Payroll,TRUE,,,,noun,2025-06-03,Nicolas Scherrer,bexio Payroll,TRUE,FALSE,Mitarbeiter,,,employé,,,collaboratore,,,employee,,,,,
+entry,"An entry is a posting in accounting. It can be created under Accounting → Manual entry. Often, it’s called manual entry. Or wrongly referred to as booking",TRUE,,,,noun,2025-08-08,Nicolas Scherrer,,TRUE,FALSE,Buchung,,,écriture,,,registrazione,,,entry,,,,,
+entry date,The date of a posting in accounting. Displayed in the detail view of a posting,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Buchungsdatum,,,date d’écriture comptable,,,data di registrazione,,,entry date,,,,,
+entry type,"Is a type of posting in the accounting journal. Types can be manual entries, invoice, customer account etc.",TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Buchungstyp,,,type de comptabilisation,,,tipo di registrazione,,,entry type,,,,,
+entry types,Plural of entry type,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Buchungstypen,,,types d’écriture,,,tipi di registrazione,,,entry types,,,,,
+exchange rate,"Name of the exchange rate if foreign currencies are used. For German: if space is limited and the context is appropriate, Kurs is also possible",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Umrechnungskurs,,,taux de change,,,tasso di cambio,,,exchange rate,,,,,
+expense,1 out of 5 accounting account classifications. Used for structuring the chart of accounts and subsequently the balance sheet and income statement,TRUE,"account
+account classification
+account group
+accounting account",,,noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,Aufwand,,,charge,,,costi,,,expense,,,,,
+expense,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Aufwendung,,,dépense,,,spesa,,,expense,,,,,
+expenses,Name in the navigation for document type expense in the purchase section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Aufwendungen,,,dépenses,,,spese,,,expenses,,,,,
+Federal Tax Administration,Name of the tax authority in Switzerland,TRUE,FTA,,,proper noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Eidgenössische Steuerverwaltung,,,Administration fédérale des contributions,,,Amministrazione federale delle contribuzioni,,,Federal Tax Administration,,,,,
+fee catalogue,The fee catalogue of swisspeers,TRUE,,,,noun + noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Gebührenkatalog,,,liste des frais,,,catalogo delle tariffe,,,fee catalogue,,,,,
+fee table,The fees that apply for a loan with bexio Credit,TRUE,,,,noun + noun,2025-09-30,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Gebührenkatalog,,,tarification,,,tabella tariffe,,,fee table,,,,,
+fiduciary,With the Cockpit we introduced inconsistencies on how we referr to accountants or fiduciaries. In office.bexio.com we referr to them as accountants and in Cockpit we call them fiduciaries,TRUE,,,,noun,2025-08-26,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Treuhänder,,,fiduciaire,,,fiduciario,,,fiduciary,,,,,
+fiduciary company,The way we refer to a company that is in the fiduciary sector,TRUE,,,,noun + noun,2025-05-02,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Treuhandunternehmen,,Treuhandfirma,société fiduciaire,,,società fiduciaria,,,fiduciary company,,,,,
+final balance sheet,Name of a system accounting account. Can be used to add the balance sheet of a previous year to accounting without the accounting onboarding wizard,TRUE,,,,adjective + noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Schlussbilanz,,,bilan de clôture,,,bilancio di chiusura,,,final balance sheet,,,,,
+financial accounting,German abbreviation for financial accounting,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,FIBU,,,comptabilité financière,,,contabilità finanziaria,,,financial accounting,,,,,
+financial accounting,Official name of accounting,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Finanzbuchhaltung,,,comptabilité financière,,,contabilità finanziaria,,,financial accounting,,,,,
+financial services,Name in the navigation for embedded finance topics,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Finanzdienstleistungen,,,services financiers,,,servizi finanziari,,,financial services,,,,,
+first name,Label of input field,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Vorname,,,prénom,,,nome,,,first name,,,,,
+fiscal year,"The year from an accounting perspective. May differ from the calendar year, for example for seasonal companies",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Geschäftsjahr,,,exercice,,,esercizio,,,fiscal year,,,,,
+form of reporting,The overarching term for agreed consideration and consideration collected for the form of reporting the VAT to the federal tax administration,TRUE,,,,noun + preposition + noun,2025-09-12,Nicolas Scherrer,,TRUE,FALSE,Abrechnungsart,,,mode de décompte,,,sistema di rendiconto,,,form of reporting,,,,,
+FTA,Abbreviation of Federal Tax Administration,TRUE,Federal Tax Administration,,,proper noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,ESTV,,,AFC,,,AFC,,,FTA,,,,,
+GeBüV,German abbreviation for “ordinance for keeping and retaining accounting records”. The Swiss government has not provided any English translation for the abbreviation and uses the German abbreviation too,TRUE,ordinance for keeping and retaining accounting records,OKRAR,,noun,2026-02-10,Nicolas Scherrer,,TRUE,TRUE,GeBüV,,,Olico,,,Olc,,,GeBüV,,,,,
+help center,Where our users can get help. Support articles live in our help center,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Supportbereich,,,centre d’aide,,,centro assistenza,,,help center,,,,,
+house no.,Label for input field. Always combined with street. House is the prefix to no. if there is another no. present on the same screen,TRUE,street,house number,,noun + noun,2025-05-13,Nicolas Scherrer,,TRUE,FALSE,Haus-Nr.,,Hausnr.,nº de bâtiment,,,n. civico,,,house no.,,,,,
+in progress,Status. Used for time trackings,TRUE,,,,adjective,2025-09-22,Nicolas Scherrer,,TRUE,FALSE,in Arbeit,,,en cours de traitement,,,in preparazione,,,in progress,,,,,
+income,1 out of 5 accounting account classifications. Used for structuring the chart of accounts and subsequently the balance sheet and income statement,TRUE,"account
+account group
+account classification
+accounting account",,,noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,Ertrag,,,revenus,,,ricavi,,,income,,,,,
+income statement,Report for year-end-closing. Contains income and expenses,TRUE,"account classification
+account
+account group
+accounting account",,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Erfolgsrechnung,,,compte de résultat,,,conto economico,,,income statement,,,,,
+incoming payment,"Payment on the sales documents. If space is at a premium on mobile for example, use payment",TRUE,,,,adjective + noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Zahlungseingang,,,encaissement,,,pagamento in entrata,,,incoming payment,,,,,
+individual price,Used in sales documents. Label for the individual price of the positions,TRUE,,,,adjective + noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Einzelpreis,,,prix unitaire,,,prezzo unitario,,,individual price,,,,,
+interest,The interest customers have to pay for their business loan from swisspeers depending on their credit score,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Zins,,,intérêt,,,interessi,,,interest,,,,,
+interest rate,Interest rate of the loan,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Zinssatz,,,taux d’intérêt,,,tasso di interesse,,,interest rate,,,,,
+invite,"Team members are never created, we invite them via email",TRUE,,,,verb,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,einladen,,,inviter,,,invita,,,invite,,,,,
+invoice,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Rechnung,,,facture,,,fattura,,,invoice,,,,,
+invoiced,Status. Used for time trackings,TRUE,,,,adjective,2025-09-22,Nicolas Scherrer,,TRUE,FALSE,fakturiert,,,facturé,,,fatturati,,,invoiced,,,,,
+invoices,Name in the navigation for document type Invoice in the sales section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Rechnungen,,,factures,,,fatture,,,invoices,,,,,
+journal,The heart of every accounting. Every single posting is in the journal,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Journal,,,journal,,,giornale,,,journal,,,,,
+Kamuno,Our partners for bexio Credit,TRUE,,,,proper noun,2025-09-26,Nicolas Scherrer,bexio Credit,FALSE,TRUE,,,,,,,,,,Kamuno,,,,,
+language,Use this to select a language,TRUE,,,,noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Sprache,,,langue,,,lingua,,,language,,,,,
+last name,Label of input field,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Nachname,,,nom,,,cognome,,,last name,,,,,
+legal form,"Label of input field. The legal form of a company. Can be LTD, LLC or sole proprietorship in Switzerland",TRUE,,,,adjective + noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Rechtsform,,,forme juridique,,,forma giuridica,,,legal form,,,,,
+liability,1 out of 5 accounting account classifications. Used for structuring the chart of accounts and subsequently the balance sheet and income statement,TRUE,"account
+account classification
+account group
+accounting account",,,noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,Passiv,,,passif,,,passivo,,,liability,,,,,
+link,Write link in the banking section when it’s about connecting your bexio bank account to your e-banking,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Verknüpfung,,,connexion,,,collegamento,,,link,,,,,
+LLC,Abbreviation for limited liability company,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,GmbH,,,SÀRL,,,SAGL,,,LLC,,,,,
+loan amount,The amount of the loan. Between CHF 50.000 and 1.000.000,TRUE,,,,noun + noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,Kreditbetrag,,,montant du prêt,,,importo del prestito,,,loan amount,,,,,
+login,"When a user already has an account, call it the login",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Login,Use the article das for German,,login,,,login,,,login,,,,,
+LTD,Abbreviation for limited company,TRUE,,,,,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,AG,,,SA,,,SA,,,LTD,,,,,
+main address,"The address of a contact. Contains name, street, house no., pc, city, address addition and company name addition",TRUE,,,,adjective + noun,2025-11-04,Nicolas Scherrer,,TRUE,FALSE,Hauptadresse,,,adresse principale,,,indirizzo principale,,,main address,,,,,
+main contact,A contact can have multiple linked addresses. But there is always only 1 main contact,TRUE,,,,adjective + noun,2025-05-27,Nicolas Scherrer,,TRUE,FALSE,Hauptkontakt,,,contact principal,,,contatto principale,,,main contact,,,,,
+manual entry,A single manual posting in the accounting,TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,manuelle Buchung,,,ecriture manuelle,,,registrazione manuale,,,manual entry,,,,,
+Marketplace,Brand name of our Marketplace,TRUE,App Marketplace,,,proper noun,2024-01-10,Nicolas Scherrer,,FALSE,FALSE,,,,,,,,,,Marketplace,,,,,
+mobile,Label of input field. Used for mobile phone number,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Mobile,,,mobile,,,cellulare,,,mobile,,,,,
+monthly average exchange rate,Singular of monthly average exchange rates,TRUE,,,,adjective + noun + noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Monatsmittelkurs,,,cours moyen mensuel,,,corso a metà mese,,,monthly average exchange rate,,,,,
+monthly average exchange rates,The automatically obtained monthly conversion rates from the Swiss Federal Tax Administration (FTA),TRUE,,,,adjective + noun + noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Monatsmittelkurse,,,cours moyens mensuels,,,corsi di metà mese,,,monthly average exchange rates,,,,,
+monthly payment,The monthly payback for the business loan,TRUE,,,,adjective + noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,monatliche Rate,,,paiement mensuel,,,pagamento mensile,,,monthly payment,,,,,
+name addition,Label of input field,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Namens-Zusatz,,,ajout de nom,,,aggiunta di nome,,,name addition,,,,,
+net balance,Is an instrument to check if your accounting is balanced. Mostly used before the actual balance sheet is created for the year-end closing,TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Saldobilanz,,,balance des soldes,,,saldo netto,,,net balance,,,,,
+net tax,A method to report VAT to the federal tax administration,TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Saldosteuer,,,taux de la dette fiscale nette,,,aliquota saldo,,,net tax,,,,,
+net tax rate method,1 of the 2 taxation methods,TRUE,,,,adjective + noun + noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Saldobesteuerung,,,dette fiscale nette,,,rendicontazione con imposte nette,,,net tax rate method,,,,,
+no.,"Always use the abbreviation for number. No. is used in various places. If there is more than 1 no. on a screen, specify the no. with a prefix e.g. within contact creation (Contact no. and House no.). Label for input field. Often combined with street",TRUE,nos,number,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Nr.,,,nº,,,n.,,,no.,,,,,
+nos,Plural of number. Never use a point after the abbreviation,TRUE,no.,"nos., numbers",,noun,2025-05-23,Nicolas Scherrer,,TRUE,FALSE,Nrn.,,,nº,,,n.,"Plural is defined by it’s context, the abbreviation stays the same",,nos,,,,,
+OK,Name for buttons and abbreviation for okay,TRUE,cancel,,"Try to use a clearer verb instead. For example, save, accept, decline and so on",verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,OK,Use the article “das” for German,,OK,,,OK,,,OK,,,,,
+one-off fee,One time fee for the business loan,TRUE,,,,adjective + noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,einmalige Gebühr,,,frais uniques,,,tassa una tantum,,,one-off fee,,,,,
+online accounting,That is how we categorize our software,TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Online-Buchhaltung,,,comptabilité en ligne,,,contabilità online,,,online accounting,,,,,
+opening balance sheet,Name of a system accounting account. Can be used to open a fiscal year with manual entries,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Eröffnungsbilanz,,,bilan d’ouverture,,,bilancio di apertura,,,opening balance sheet,,,,,
+opening entries,"In the beginning of a fiscal year, the balances from the previous fiscal year are carried over with postings. These are called opening entries",TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Eröffnungsbuchungen,,,écritures d’ouverture,,,registrazioni iniziali,,,opening entries,,,,,
+order,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Auftrag,,,commande client,,,ordine,,,order,,,,,
+orders,Name in the navigation for document type order in the sales section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Aufträge,,,commandes clients,,,ordini,,,orders,,,,,
+ordinance for keeping and retaining accounting records,"The full form of “GeBüv”. Since there is no translated abbreviation provided by the Swiss government and because they use the German abbreviation too, we do the same",TRUE,GeBüV,,,noun + preposition + noun + conjunction + noun + noun + noun,2026-02-10,Nicolas Scherrer,,TRUE,FALSE,Geschäftsbücherverordnung,,,ordonnance concernant la tenue et la conservation des livres de comptes,,,ordinanza sui libri di commercio,,,ordinance for keeping and retaining accounting records,"UX
+Marketing",,,,
+package,The name for one of our subscriptions or packages,TRUE,"package and options
+packages",plan,It used to be plan and then we changed it to package for Nova,noun,2026-02-13,Nicolas Scherrer,,TRUE,FALSE,Paket,,,package,,,pacchetto,,,package,,,,,
+package and options,Name in the settings of the bexio Office account,TRUE,"package
+packages","plan and options, plans and options",It used to be plan and then we changed it to package for Nova,noun + conjunction + noun,2026-02-13,Nicolas Scherrer,,TRUE,FALSE,Paket und Optionen,,,package et options,,,pacchetto e opzioni,,,package and options,,,,,
+packages,Plural of package,TRUE,"package
+package and options",plans,It used to be plans and then we changed it to packages for Nova,noun,2026-02-13,Nicolas Scherrer,,TRUE,FALSE,Pakete,,,packages,,,pacchetti,,,packages,,,,,
+paid,"Document status, always capitalised",TRUE,,,,adjective,2025-09-04,Nicolas Scherrer,,TRUE,FALSE,Bezahlt,,,payée,,,pagato,,,paid,,,,,
+parent group,Account groups can be nested. Parent groups are on a higher level than the account groups,TRUE,account group,,,noun + noun,2025-10-03,Nicolas Scherrer,,TRUE,FALSE,übergeordnete Gruppe,,,groupe parent,,,gruppo principale,,,parent group,,,,,
+partial,"Document status, always capitalised",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,teilweise,,,partiel,,,parzialmente,,,partial,,,,,
+pay stub,With every salary the employees get a paystub,TRUE,,,,noun,2025-06-03,Nicolas Scherrer,bexio Payroll,TRUE,FALSE,Lohnabrechnung,,,décompte de salaire,,,calcolo del salario,,,pay stub,,,,,
+pay stubs,Plural of paystub,TRUE,,,,noun,2025-07-07,Nicolas Scherrer,bexio Payroll,TRUE,FALSE,Lohnabrechnungen,,,décomptes de salaire,,,calcoli dei salari,,,pay stubs,,,,,
+payable by,This is a label. It is used for the date an invoice or a bill has to be payed,TRUE,,,,adjective + preposition,2025-07-11,Nicolas Scherrer,,TRUE,FALSE,zahlbar bis,,,payable jusqu’au,,,pagabile entro,,,payable by,,,,,
+payment method,The choice of how our users pay for their package. E.g. credit card or invoice,TRUE,,,,payment method,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Zahlungsart,,,mode de paiement,,,metodo di pagamento,,,payment method,,,,,
+payment order,Singular of payment orders,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Zahlungsauftrag,,,ordre de paiement,,,ordine di pagamento,,,payment order,,,,,
+payment orders,"We do not create payments, we create payment orders for the banks. Therefore, call it payment orders",TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Zahlungsaufträge,,,ordres de paiement,,,ordini di pagamento,,,payment orders,,,,,
+payout,Paid out amount of the business loan,TRUE,,,,noun,2025-04-25,Nicolas Scherrer,bexio Credit,TRUE,FALSE,ausbezahlter Betrag,,,versement,,,pagamento,,,payout,,,,,
+payroll,Name of the option for payroll in plan management,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Lohnbuchhaltung,,,comptabilité des salaires,,,contabilità salariale,,,payroll,,,,,
+payroll,Name in the navigation for payroll,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Löhne,,,salaires,,,salari,,,payroll,,,,,
+PC,Label of input field. Abbreviation for postcode. Use this if you are short on space,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,PLZ,,,NPA,,,NPA,,,PC,,,,,
+PDF page break,Used on sales documents. It adds a page break on the PDF version of the document,TRUE,,,,noun + noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,PDF-Seitenumbruch,,,saut de page PDF,,,interruzione pagina PDF,,,PDF page break,,,,,
+pending,"Status. Used for quotes, orders, invoices, credit notes, purchase orders, bills, vendor credit notes, time trackings, tasks",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,offen,,,en suspens,,,in sospeso,,,pending,,,,,
+percentage,Used in a discount position on a sales document. For discounts you can choose if it’s an amount or a percentage,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Prozentsatz,,,pourcentage,,,percentuale,,,percentage,,,,,
+phone,Label of input field. Used for phone number,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Telefon,,,téléphone,,,telefono,,,phone,,,,,
+picture,Refers to profile pictures,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Bild,,,image,,,immagine,,,picture,,,,,
+plug-in,Can also be an add-on,FALSE,,,,noun,,Nicolas Scherrer,,TRUE,FALSE,Plug-in,,,plug-in,,,plug-in,,,plug-in,,,,,
+position,A single item on a sales document is called a position,TRUE,,,,noun,2025-09-04,Nicolas Scherrer,,TRUE,FALSE,Position,,,position,,,posizione,,,position,,,,,
+postcode,Label of input field. Use this spelling instead of the abbreviation if you have enough space,TRUE,,zip code,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Postleitzahl,,,numéros postaux d’acheminement,,,numeri postali di avviamento,,,postcode,,,,,
+pre-tax,The name of the tax rates when you buy things,TRUE,,,"Means before tax is paid. As there is no official translation from the FTA, we should think about alternatives. The source of truth is the German term.",noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Vorsteuer,,,impôt préalable,,,IVA precedente,,,pre-tax,,,,,
+private,One of the contact types private or company,TRUE,,,"Would make sense to change it to person. If it is used as a noun, it means soldier.",adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Privat,,,privé,,,privato,,,private,,,,,
+process,A process is an overarching project that holds work steps.,TRUE,,,,noun,2025-06-05,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Prozess,,,processus,,,processo,,,process,,,,,
+product,Within the section products this is one product,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Produkt,,,produit,,,prodotto,,,product,,,,,
+product type,In our product section. Can be goods or service,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Produktart,,,type de produit,,,prodotto,,,product type,,,,,
+products,Name of the section in the navigation,TRUE,,,,noun,2025-08-19,Nicolas Scherrer,,TRUE,FALSE,Produkte,,,produits,,,prodotti,,,products,,,,,
+proposal,Only used in the address split wizard. A proposal is the short form for a proposed address after the address split,TRUE,,,,noun,2025-11-04,Nicolas Scherrer,,TRUE,FALSE,Vorschlag,,,proposition,,,proposta,,,proposal,,,,,
+proposed address,Only used in the address split wizard. Users can approve the proposals or edit them themselves,TRUE,,,,adjective + noun,2025-11-04,Nicolas Scherrer,,TRUE,FALSE,vorgeschlagene Adresse,,,adresse proposée,,,indirizzo proposto,,,proposed address,,,,,
+purchase,Name of the section in the navigation,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Einkauf,,,achat,,,acquisto,,,purchase,,,,,
+purchase order,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Bestellung,,,commande,,,ordinazione,,,purchase order,,,,,
+purchase orders,Name in the navigation for document type purchase order in the purchase section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Bestellungen,,,commandes,,,ordinazioni,,,purchase orders,,,,,
+QR invoice,Features a QR code with a Swiss cross as an identifying feature. The Swiss QR code contains all the information necessary for a payment in digital form. This ensures improved security and enables a smoother financial process,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,QR-Rechnung,,,facture QR,,,fattura QR,,,QR invoice,,,,,
+quantity,Used in a default position on a sales document,TRUE,,,,noun,2025-09-02,Nicolas Scherrer,,TRUE,FALSE,Menge,,,quantité,,,quantità,,,quantity,,,,,
+quote,Name of the document,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Angebot,,,offre,,,offerta,,,quote,,,,,
+quotes,Name in the navigation for document type offer in the sales section,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Angebote,,,offres,,,offerte,,,quotes,,,,,
+reconciliation,Name of the function in the banking section to link or reconcile bank transactions with documents in bexio,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Abgleich,,,rapprochement,,,riconciliazione,,,reconciliation,,,,,
+record ID,"For contact import. Must correspond to the contact import template, otherwise the import will not work. Therefore without hyphen",TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Datensatz ID,,,identifiant du fichier de données,,,ID del record,,,record ID,,,,,
+repeating process,"If a process happens again and again, we call it a repeating process",TRUE,,,,adjective + noun,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,wiederholender Prozess,,,processus récurrent,,,processo ricorrente,,,repeating process,,,,,
+reporting method,The overarching term for the effective method and the net tax method for reporting the VAT to the federal tax administration,TRUE,,,,noun + noun,2025-05-02,Nicolas Scherrer,,TRUE,FALSE,Abrechnungsmethode,,,méthode de décompte,,,metodo di rendiconto,,,reporting method,,,,,
+reporting period,The name of the periods within the VAT statement in bexio,TRUE,,,,noun,2025-08-04,Nicolas Scherrer,,TRUE,FALSE,Abrechnungsperiode,,,période de décompte,,,periodo di rendiconto,,,reporting period,,,,,
+responsible,"Who is responsible for a client, process or work step",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,zuständig,,,responsable,,,responsabile,,,responsible,,,,,
+salary payment,Employees get paid for their work. Every month they get a salary payment,TRUE,,,,noun + noun,2025-06-03,Nicolas Scherrer,bexio Payroll,TRUE,FALSE,Lohnzahlung,,,versement de salaire,,,pagamento dello stipendio,,,salary payment,,,,,
+sales,Name of the section in the navigation,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Verkauf,,,ventes,,,vendita,,,sales,,,,,
+sales tax,The name of the taxe rates that you use when you are selling things,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Umsatzsteuer,,,taxe sur le chiffre d’affaires,,,IVA,,,sales tax,,,,,
+salutation,Label of input field,TRUE,,form of address,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Anrede,,,formule d’appel,,,saluto,,,salutation,,,,,
+save,"If a change will be fixed, write save",TRUE,,,,verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,speichern,,,enregistrer,,,salvare,,,save,,,,,
+self-employed,A person who carries a trade or business as a sole proprietor or an independent contractor is self-employed,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Selbstständige,,,indépendants,,,lavoratori indipendenti,,,self-employed,,,,,
+service performed,This is an option for time trackings to mark them as Done,TRUE,,,,noun + verb,2025-06-06,Nicolas Scherrer,,TRUE,FALSE,Leistung erledigt,,,prestation effectuée,,,prestazione effettuata,,,service performed,,,,,
+settle,The name of the action to settle a credit note with an invoice,TRUE,,,,verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,verrechnen,,,régler,,,compensare,,,settle,,,,,
+settled,"Document status, always capitalised",TRUE,,,,adjective,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,verrechnet,,,clôturé,,,compensato,,,settled,,,,,
+show,"If you want to display a dataset, call it show",TRUE,,display,,verb,2025-05-27,Nicolas Scherrer,,TRUE,FALSE,anzeigen,,,afficher,,,mostra,,,show,,,,,
+sign up,The verb for the noun the sign-up,TRUE,,,,verb,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,registrieren,,,inscrivez-vous,,,registrati,,,sign up,,,,,
+sign-up,"If a user doesn’t have a bexio account, yet, they have to sign up for one. Call that process the sign-up",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Registrierung,,,,,,,,,sign-up,,,,,
+SMB,Abbreviation for small and medium-sized business,TRUE,,SME,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,KMU,,,PME,,,PMI,,,SMB,,,,,
+sole proprietorship,One of the legal forms in Switzerland,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Einzelunternehmen,,,entreprise individuelle,,,impresa individuale,,,sole proprietorship,,,,,
+split address,The action to split the address. Connected to structured addresses,TRUE,,,,verb + noun,2025-06-24,Nicolas Scherrer,,TRUE,FALSE,Adresse aufteilen,,,fractionner l’adresse,,,dividi indirizzo,,,split address,,,,,
+standard position,The default position of a sales document,TRUE,,,,adjective + noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Standardposition,,,position par défaut,,,posizione predefinita,,,standard position,,,,,
+start-up,"A new company or business venture, typically characterized by high growth potential and a focus on innovation",TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Startup,,,startup,,,startup,,,start-up,,,,,
+status,Status of documents etc.,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Status,,,statut,,,stato,,,status,,,,,
+street,Label of input field. Often combined with no.,TRUE,house no.,"street name, address",,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Strasse,,,rue,,,via,,,street,,,,,
+subject to VAT,Tax setting to determine if a company has to pay VAT. Answer can be yes or no,TRUE,,,,adjective + preposition + noun,2025-09-12,Nicolas Scherrer,,TRUE,FALSE,MWST-pflichtig,,,assujetti à la TVA,,,soggetto a IVA,,,subject to VAT,,,,,
+subscription,"If customers are paying for their bexio account, it’s called a subscription",TRUE,,,,noun,2025-05-19,Nicolas Scherrer,,TRUE,FALSE,Abonnement,,,abonnement,,,abbonamento,,,subscription,,,,,
+subscription change,"If customers up- or downgrade or add or remove options, it’s a subscription change. This works both ways",TRUE,,"downgrade, upgrade",,noun + noun,2025-05-30,Nicolas Scherrer,,TRUE,FALSE,Abonnement-Wechsel,,,modification d’abonnement,,,modifica dell’abbonamento,,,subscription change,,,,,
+subscription end,"The date when the subscription ends. For a monthly subscription this is earlier than for a yearly one. After the end, the subscription renews",TRUE,,,,noun + noun,2025-06-17,Nicolas Scherrer,,TRUE,FALSE,Abonnement-Ende,,,fin de l’abonnement,,,fine abbonamento,,,subscription end,,,,,
+subscription start,The date when the subscription starts,TRUE,,,,noun + noun,2025-06-17,Nicolas Scherrer,,TRUE,FALSE,Abonnement-Beginn,,,début de l’abonnement,,,inizio abbonamento,,,subscription start,,,,,
+subscription type,The type refers to whether the subscription is paid monthly or yearly,TRUE,,,,noun + noun,2025-05-19,Nicolas Scherrer,,TRUE,FALSE,Abonnementtyp,,,type d’abonnement,,,tipo di abbonamento,,,subscription type,,,,,
+subtotal,Used on sales documents. It adds a total to use in between positions,TRUE,,,,noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Zwischentotal,,,sous-total,,,totale parziale,,,subtotal,,,,,
+super admin,The highest user permission a bexio user can have. This is set via a checkbox and enables those users to cancel the subscription and access the user permissions at any given time,TRUE,,,,adjective + noun,2025-08-25,Nicolas Scherrer,,TRUE,FALSE,Superadmin,,,super administrateur,,,superadmin,,,super admin,,,,,
+support article,The name of one article in our help center.,TRUE,,help center article,,noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,Supportbeitrag,Use the article “der” for German,,l’article d’assistance,,,articolo di supporto,,,support article,,,,,
+swisspeers,Our partners for bexio Credit,TRUE,,,,proper noun,2025-04-25,Nicolas Scherrer,bexio Credit,FALSE,TRUE,,,,,,,,,,swisspeers,,,,,
+system account,"Same as accounting account, but it’s needed for our automatic postings",TRUE,"account
+account classification
+account ledger
+accounting account",,,noun + noun,2025-10-02,Nicolas Scherrer,,TRUE,FALSE,Systemkonto,,,compte système,,,conto di sistema,,,system account,,,,,
+system account group,"Same as account group, but they are needed for our automatic postings",TRUE,"account
+account group
+accounting account",,,noun + noun + noun,2024-01-10,Nicolas Scherrer,,TRUE,FALSE,System-Kontengruppe,,,groupe de comptes système,,,gruppo di conti di sistema,,,system account group,,,,,
+tax period,A tax period always corresponds to a calendar year,TRUE,,,,noun + noun,2025-05-19,Nicolas Scherrer,,TRUE,FALSE,Steuerperiode,,Steuerzeitraum,période fiscale,,,periodo d’imposta,,,tax period,,,,,
+tax rate,Used to describe tax rates that are used for VAT. There are sales tax and pre-tax,TRUE,,,,noun,2025-08-12,Nicolas Scherrer,,TRUE,FALSE,Steuersatz,,,taux d’imposition,,,aliquota di tassazione,,,tax rate,,,,,
+team,All team members of a fiduciary company form a team,TRUE,,,,noun,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Team,,,équipe,,,team,,,team,,,,,
+team member,Singular for team members,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Teammitglied,,,membre de l’équipe,,,membro del team,,,team member,,,,,
+team members,A gender-neutral term for fiduciaries,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Teammitglieder,,,membres de l’équipe,,,membri del team,,,team members,,,,,
+template,Document templates for sales documents and purchase orders,TRUE,,,,noun,2025-09-09,Nicolas Scherrer,,TRUE,FALSE,Vorlage,,,modèle,,,modello,,,template,,,,,
+text position,Used on a sales document to add text inside the documents position,TRUE,,,,noun + noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Textposition,,,position du texte,,,posizione testo,,,text position,,,,,
+title,Label of input field. Refers to academic titles,TRUE,,,,noun,2025-04-29,Nicolas Scherrer,,TRUE,FALSE,Titel,,,titre,,,titolo,,,title,,,,,
+tool,Refers to the name of the software fiduciaries use,TRUE,,,,noun,2025-11-07,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Programm,,,outil,,,programma,,,tool,,,,,
+total,Used in different places. On invoices it usually refers to the total amount of the document before value added taxes (VAT),TRUE,,,,noun,2025-08-12,Nicolas Scherrer,,TRUE,FALSE,Total,,,total,,,totale,,,total,,,,,
+tracked time,Used on sales documents. Can be used to import time trackings into invoices,TRUE,,,,adjective + noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Zeit/Leistung,,,temps/prestation,,,tempo/servizio,,,tracked time,,,,,
+trial,"If a potential client creates a bexio account, that account is in a trial period",TRUE,,,,noun,2025-08-25,Nicolas Scherrer,,TRUE,FALSE,Testphase,,,essai,,,prova,,,trial,,,,,
+unit,Used to refer to pieces or hours or other units. Mainly used for documents and products,TRUE,,,,noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Einheit,,,unité,,,unità,,,unit,,,,,
+value,Specifically used on discount positions on the documents,TRUE,,,,noun,2025-09-08,Nicolas Scherrer,,TRUE,FALSE,Wert,,,valeur,,,valore,,,value,,,,,
+VAT,Abbreviation for value added tax,TRUE,,,,noun,2025-05-13,Nicolas Scherrer,,TRUE,FALSE,MWST,In German we deter from the Duden guidelines that write it “MwSt.”,MwSt.,TVA,,,IVA,,,VAT,,,,,
+vendor credit note,Name of the document,TRUE,,,,noun + noun,2025-01-07,Nicolas Scherrer,,TRUE,FALSE,Lieferantengutschrift,,,crédit fournisseur,,,nota di credito del fornitore,,,vendor credit note,,,,,
+vendor credit notes,Name in the navigation for document type vendor credit note in the purchase section,TRUE,,,,noun + noun,2025-01-07,Nicolas Scherrer,,TRUE,FALSE,Lieferantengutschriften,,,crédits fournisseurs,,,note di credito dei fornitori,,,vendor credit notes,,,,,
+web application,Refer to bexio on the desktop computer,TRUE,,,,noun + noun,2025-09-30,Nicolas Scherrer,bexio Go,TRUE,FALSE,Webapplikation,,"bexio an Ihrem Computer, bexio Office",application web,,,applicazione web,,,web application,,,,,
+work step,One single step within a process is called a work step,TRUE,,,,noun + noun,2024-01-10,Nicolas Scherrer,bexio Cockpit,TRUE,FALSE,Arbeitsschritt,,,étape de travail,,,fase di lavoro,,,work step,,,,,
