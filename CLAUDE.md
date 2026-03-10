@@ -19,6 +19,7 @@ A content management and creation system. This file provides Claude with project
 my-content-system/
 ├── CLAUDE.md                        # This file — Claude instructions
 ├── memory.md                        # Persistent memory across sessions
+├── learning-log.md                  # Append-only chronological learning log
 ├── skills/
 │   ├── tone-checker.md
 │   └── learn.md
@@ -37,3 +38,5 @@ my-content-system/
 - Check `style-guide/style.md` and `style-guide/master-glossary.csv` before writing or reviewing copy
 - Use the `learn` skill to capture new patterns or insights during work
 - Use the `tone-checker` skill before finalizing any content
+- After every output, silently run the learn skill in auto mode: infer if anything new was confirmed, decided, or discovered. If yes, update `memory.md` and append to `learning-log.md`. If nothing new, skip.
+- After producing any written output or writing suggestions, run the tone-checker skill.

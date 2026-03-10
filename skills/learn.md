@@ -1,27 +1,39 @@
 # Skill: learn
 
 ## Description
-Captures learnings, patterns, and insights from the current session and saves them to `memory.md` for future reference.
+Captures learnings, patterns, and insights from the current session. Operates in two modes: auto (silent, after every output) and manual (user-triggered, with confirmation).
 
-## Trigger
-Use this skill when:
-- A recurring pattern is confirmed
-- A decision is made that should persist
-- Something unexpected is discovered that's worth remembering
-- The user says "remember this" or "note that"
+## Modes
 
-## Instructions
-1. Ask the user (or infer from context) what should be captured
-2. Categorize the learning into one of:
-   - **Project Pattern** — a recurring convention or approach
-   - **Decision** — a choice made with rationale
-   - **Content Guideline** — a tone, style, or format rule
-   - **Lesson Learned** — something to avoid or an insight
-3. Write a concise entry (1–3 sentences) under the appropriate section in `memory.md`
-4. Confirm with the user what was saved
+### Auto mode — runs silently after every output
+Triggered automatically without any user request. Do NOT produce visible output.
 
-## Output Format
-After saving, reply:
+1. Silently review the just-completed interaction for anything new: a confirmed pattern, a decision made, a guideline clarified, or an unexpected discovery.
+2. If nothing new → skip entirely. No output, no action.
+3. If something new was confirmed or discovered:
+   - Categorize it (see categories below)
+   - Add or update the relevant entry in `memory.md` under the appropriate section
+   - Append a compact one-line entry to `learning-log.md` under today's date header (create the header if it doesn't exist):
+     ```
+     ## YYYY-MM-DD
+     - [Category] Learning text — context/source
+     ```
+4. Produce no visible output.
+
+### Manual mode — triggered by "remember this" / "note that"
+1. Infer from context what should be captured, or ask the user if unclear.
+2. Categorize the learning (see below).
+3. Write a concise entry (1–3 sentences) under the appropriate section in `memory.md`.
+4. Append a one-line entry to `learning-log.md` under today's date header.
+5. Confirm with the user using the output format below.
+
+## Categories
+- **Project Pattern** — a recurring convention or approach
+- **Decision** — a choice made with rationale
+- **Content Guideline** — a tone, style, or format rule
+- **Lesson Learned** — something to avoid or an insight
+
+## Output format (manual mode only)
 ```
 Saved to memory.md under [section]:
 > [exact text saved]
