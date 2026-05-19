@@ -38,5 +38,5 @@ my-content-system/
 - Check `style-guide/style.md` and `style-guide/master-glossary.csv` before writing or reviewing copy
 - Use the `learn` skill to capture new patterns or insights during work
 - Use the `tone-checker` skill before finalizing any content
-- After every output, silently run the learn skill in auto mode: infer if anything new was confirmed, decided, or discovered. If yes, update `memory.md` and append to `learning-log.md`. If nothing new, skip.
+- After every response, check if anything new was confirmed, decided, or discovered. If yes, update `memory.md` and append to `learning-log.md` as part of that same response — do not defer it. If nothing new, skip. (The Stop hook will also prompt this check automatically.)
 - After producing any written output or writing suggestions, run the tone-checker skill.

@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'LEARN-CHECK: Review this response for new Content Guidelines, Project Patterns, Decisions, or Lessons Learned. If anything new was confirmed or discovered, update memory.md and append to learning-log.md now. No user-facing output needed — just make the edits and stop.'"
+          }
+        ]
+      }
+    ]
+  }
+}
